@@ -1,10 +1,10 @@
-![TJK](logo.svg)
+![TJK](logo.png)
 
 # Token Harbor account registrar
 
 Registers Token Harbor accounts and saves their API keys to a text file.
 
-![Token Harbor registrar running in a terminal](snapshot.svg)
+![Token Harbor registrar running in a terminal](snapshot.jpeg)
 
 ## What you need
 
