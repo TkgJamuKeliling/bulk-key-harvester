@@ -1,0 +1,9 @@
+# Publish only the shipped files (the launchers, the README, and its preview image).
+# Everything else - source, generator, packaging metadata - stays local.
+*
+!.gitignore
+!run.sh
+!run.cmd
+!README.md
+!snapshot.svg
+!logo.svg
