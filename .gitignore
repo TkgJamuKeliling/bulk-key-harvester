@@ -2,6 +2,7 @@
 # Everything else - source, generator, packaging metadata - stays local.
 *
 !.gitignore
+!.gitattributes
 !run.sh
 !run.cmd
 !README.md
